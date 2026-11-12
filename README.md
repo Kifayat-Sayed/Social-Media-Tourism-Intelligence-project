@@ -557,17 +557,7 @@ jupyter
 
 A suitable Python environment with compatible versions of these packages is required. TensorFlow installation may depend on the operating system and Python version.
 
----
 
-## Acknowledgements & Attribution
-
-The notebook files identify **Sudhanshu Singh** as their author and include the original GitHub profile:
-
-[Sudhanshu Singh – GitHub](https://github.com/sudhanshusinghaiml)
-
-The notebooks should retain appropriate original attribution when shared or adapted. Dataset ownership, source, and redistribution permissions should also be verified before public distribution.
-
----
 
 ## Project Takeaway
 
